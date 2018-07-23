@@ -1,4 +1,4 @@
-print ('Hello world')
-print ('Hello everybody')
-print ('Hello')
-print ('Ye')
+print ('Hello world - привет мир')
+print ('Hello everybody - привет все')
+print ('Hello - привет')
+print ('Ye - е')
